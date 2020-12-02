@@ -1,7 +1,7 @@
 import URLs from './URLs';
 import Axios from 'axios';
-const appkey = 'DuYiyongzhi_1564986206465';
-// zgx666_1585656106078
+const appkey = 'zgx666_1585656106078';
+// 
 const instance = Axios.create({
     baseURL:URLs.baseURL,
     params:{
